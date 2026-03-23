@@ -1,1 +1,1 @@
-print Hello Ambadas")
+print ("Hello Ambadas")
